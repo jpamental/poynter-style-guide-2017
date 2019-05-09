@@ -8,6 +8,8 @@ The purpose of this demo is to show how, when a browser supports variable fonts,
 
 I have endeavored to keep the original design and typography intact, but have scoped all of the new typography within an `@supports` block so that the new typography will only be rendered by browsers that will understand what to do with variable fonts.
 
+View it here: https://jpamental.github.io/poynter-style-guide-2017/
+
 ## Setup
 
 This repository does use Gulp to compile the Sass, but it is not a requirement to use it. The compiled CSS is also included.
